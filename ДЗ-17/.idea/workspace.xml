@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ad1da42-a77b-496f-bb5b-7d4f90f2eb57" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../ДЗ-12_Восковщук_Илья" beforeDir="false" afterPath="$PROJECT_DIR$/../ДЗ-12_Восковщук_Илья" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ДЗ-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ДЗ-10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ДЗ-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ДЗ-11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ДЗ-12/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ДЗ-12/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ДЗ-12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ДЗ-12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ДЗ-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ДЗ-16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ДЗ-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ДЗ-9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +38,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/PyCharm/Homework/ДЗ-18"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
